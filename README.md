@@ -1,9 +1,9 @@
-# 🚀 git-commit-ai
+# 🚀 ai-git-commit-gen
 
 > **AI-powered git commit message generator** - Zero configuration, instant intelligent commits
 
-[![PyPI version](https://badge.fury.io/py/git-commit-ai.svg)](https://badge.fury.io/py/git-commit-ai)
-[![Python](https://img.shields.io/pypi/pyversions/git-commit-ai.svg)](https://pypi.org/project/git-commit-ai/)
+[![PyPI version](https://badge.fury.io/py/ai-git-commit-gen.svg)](https://badge.fury.io/py/ai-git-commit-gen)
+[![Python](https://img.shields.io/pypi/pyversions/ai-git-commit-gen.svg)](https://pypi.org/project/ai-git-commit-gen/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
@@ -23,7 +23,7 @@ Generate meaningful git commit messages instantly using AI. No API keys required
 ## 📦 Installation
 
 ```bash
-pip install git-commit-ai
+pip install ai-git-commit-gen
 ```
 
 That's it! No configuration needed.

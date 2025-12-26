@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ai-git-commit-gen"
-version = "0.1.0"
+version = "0.1.1"
 description = "AI-powered git commit message generator"
 readme = "README.md"
 license = "MIT"
@@ -34,11 +34,12 @@ dependencies = [
 
 [project.scripts]
 gcai = "git_commit_ai.main:app"
+ai-git-commit = "git_commit_ai.main:app"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/git-commit-ai"
-Repository = "https://github.com/yourusername/git-commit-ai"
-Issues = "https://github.com/yourusername/git-commit-ai/issues"
+Homepage = "https://github.com/yogichoudhari/ai-git-commit-gen"
+Repository = "https://github.com/yogichoudhari/ai-git-commit-gen"
+Issues = "https://github.com/yogichoudhari/ai-git-commit-gen/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/git_commit_ai"]
